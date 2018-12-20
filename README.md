@@ -1,3 +1,3 @@
 # nosleep-trend-finder
 
-extracts nosleep story information and stores in sqlite database
+extracts nosleep story information, stores it in sqlite database
